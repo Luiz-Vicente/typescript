@@ -2,6 +2,7 @@
 and therefore it is not necessary to declare it, but in this file the idea is to list the available Annotation Types */
 
 /* MAIN TYPES */
+
 const name: string = 'Luiz'; // 'name' is declared as a string type with the value 'Luiz'.
 const age: number = 19; // 'age' is declared as a number type with the value 19.
 const isMan: boolean = true; // 'isMan' is declared as a boolean type with the value true.

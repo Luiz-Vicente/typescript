@@ -1,4 +1,5 @@
 /* OBJECT TYPE */
+
 const person: {
   name: string;
   age: number;

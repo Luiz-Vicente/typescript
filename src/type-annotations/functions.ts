@@ -1,4 +1,5 @@
 /* TYPE IN PARAMETER */
+
 function greet(name: string): string {
   // 'greet' is a function with specified parameter and return types.
   return `Hello, ${name}!`;
